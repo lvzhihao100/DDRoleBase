@@ -1,0 +1,8 @@
+auto generated, do not change !!!! 
+
+HOST : common
+
+∑÷œÌ ÈºÆ“≥√Ê
+/shareBook
+bookName:String
+
